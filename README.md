@@ -6,15 +6,15 @@ Android Fragment is the part of activity, it is also known as sub-activity.We do
 <B>Fragment Life Cycle<B>
 ---------------------------
 There are serval life cycle mentioned below:
-onAttached()
-onCreate()
-onCreateView()
-onActivityCreated()
-onStart()
-onResume()
-onPause()
-onstop()
-onDestroyView()
-onDestroy()
-onDetach()
+onAttached()<br>
+onCreate()<br>
+onCreateView()<br>
+onActivityCreated()<br>
+onStart()<br>
+onResume()<br>
+onPause()<br>
+onstop()<br>
+onDestroyView()<br>
+onDestroy()<br>
+onDetach()<br>
   
