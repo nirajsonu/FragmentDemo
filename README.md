@@ -18,3 +18,4 @@ onDestroyView()<br>
 onDestroy()<br>
 onDetach()<br>
   
+onViewCreated()-->This method run immediate after onCreateView().
